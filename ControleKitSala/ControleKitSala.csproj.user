@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TelaControles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TelaFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TelaFuncionarioPesquisaCodigo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TelaKitSala.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TelaPesquisaKitSala.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
